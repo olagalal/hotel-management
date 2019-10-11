@@ -2,7 +2,7 @@
 
 [![Shields.io](https://img.shields.io/badge/type-college%20project-orange?style=flat)](http://shields.io/)
 
-Hotel Management System is a Project for (Algorithms & Flowcharts - First Year) of my college. It is a Project for dealing with files to store and retrieve records. 
+Hotel Management System is a Project that was made for **(Algorithms & Flowcharts - First Year)** in my college. It is a Project for dealing with files to store and retrieve records. 
 
 ## Functions
 
